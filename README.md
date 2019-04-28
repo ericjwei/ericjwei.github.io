@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Code of Ethics
 subtitle: A guide to ethical design decisions
 layout: page
@@ -8,4 +8,4 @@ layout: page
 
 Principles of Virtue
 
-
+ -->
