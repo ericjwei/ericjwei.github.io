@@ -1,11 +1,11 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
-description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: ""
-permalink: pretty
+# title: Bulma Clean Theme
+# tagline: Bulma Clean Theme
+# email: your-email@domain.com
+# description: >
+#   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+# baseurl: "/bulma-clean-theme"
+# url: ""
+# permalink: pretty
 
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
