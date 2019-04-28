@@ -4,4 +4,5 @@ subtitle: A guide to ethical design decisions
 layout: page
 ---
 
-“I swear to fulfill, to the best of my ability and judgment, this covenant: …”
+# “I swear to fulfill, to the best of my ability and judgment, this covenant: …”
+
