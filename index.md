@@ -10,32 +10,33 @@ Code of ethics are on the surface are a simple way of outlining ethical guidelin
 ### Covenant
 > I swear to fulfill, to the best of my ability and judgment, this covenant: I will observe these five principles as a whole in their many forms through the lense of virtue, duty, freedom, and welfare; I may add more if I wish, but never remove or contradict these core principles. These five principles are excellence, fortitude, integrity, respect, and responsibility. 
 
+## Code of Ethics
 ---
-## The Lense of Virtue:
-### Excellence
+### The Lense of Virtue:
+**Excellence**
 Designers should resolve to build with the best of their ability a solution with the core user problem always in mind. The consistent goal of improving solutions for the user is what should drive business.    
 
-### Fortitude
+**Fortitude**
 Designers should resist the pressure from society, competition and peers to stray from ethical guidelines. Stand up for these principles and keep consistent in striving for the virtue of these principles.
 
-### Integrity
+**Integrity**
 Designers should be transparent and honest with all parties involved or affected in the product's management of risks and handling of sensitive assets. There is also the integrity in understanding the principles as a virtue and following through with actions. 
 
-### Respect
+**Respect**
 Designers should treat and assist their users and coworkers as fellow humans capable of fulfilling moral virtues. Actions should not impede on the virtuous growth of others.
 
-### Responsibility
+**Responsibility**
 Designers should be accountable for the impact of their projects on their users and society. Actions that are virtuous should weigh in short and long term impacts.
 
 ---
-## The Lense of Duty:
-### Excellence
+### The Lense of Duty:
+**Excellence**
 Designers should have the duty to continuously develop to the best of their ability in order to properly treat users as a means of an end.
 
-### Fortitude
+**Fortitude**
 Designers should stay consistent in their moral actions regardless of social or economical influences because moral duty stays consistent across all scenarios, and thus should be observed in all scenarios.
 
-### Integrity
+**Integrity**
 Designers should be truthful in descriptions and agreements within the application. Otherwise, the meaning of agreements would cease exist.  
 
 ### Respect
@@ -81,12 +82,12 @@ Designers should ensure that the impact of the product both short term and long 
 ---
 ## Check List Activity:
 
-_First examine the different ethical frameworks and their main concepts._
+1. _First examine the different ethical frameworks and their main concepts._
 
 **Virtue** | **Duty** | **Freedom** | **Welfare**
 --- | --- | --- | --- 
 - Provides guidance as to the sort of characteristics and behaviors a virtuous person will seek to achieve | - Centered around categorical imperatives and universal rules with humans as a means to an end | - Always striving for the greatest freedom in choice and action | - Catering for the greater good of satisfying the many and generating the most happiness 
 
-_With an understanding of each framework, pick the ones that resonate with you the most. This could be just one, or different parts of all._ 
+2. _With an understanding of each framework, pick the ones that resonate with you the most. This could be just one, or different parts of all._ 
 
-_Now take a look at the principles under the framework(s) of your choosing, using it as a guideline for current and future design decisions._
+3. _Now take a look at the principles under the framework(s) of your choosing, using it as a guideline for current and future design decisions._
