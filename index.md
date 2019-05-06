@@ -84,10 +84,11 @@ Designers should ensure that the impact of the product both short term and long 
 
 1. _First examine the different ethical frameworks and their main concepts._
 
+2. 
 **Virtue** | **Duty** | **Freedom** | **Welfare**
 --- | --- | --- | --- 
 - Provides guidance as to the sort of characteristics and behaviors a virtuous person will seek to achieve | - Centered around categorical imperatives and universal rules with humans as a means to an end | - Always striving for the greatest freedom in choice and action | - Catering for the greater good of satisfying the many and generating the most happiness 
 
-2. _With an understanding of each framework, pick the ones that resonate with you the most. This could be just one, or different parts of all._ 
+3. _With an understanding of each framework, pick the ones that resonate with you the most. This could be just one, or different parts of all._ 
 
-3. _Now take a look at the principles under the framework(s) of your choosing, using it as a guideline for current and future design decisions._
+4. _Now take a look at the principles under the framework(s) of your choosing, using it as a guideline for current and future design decisions._
