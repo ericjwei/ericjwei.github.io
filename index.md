@@ -13,70 +13,70 @@ Code of ethics are on the surface are a simple way of outlining ethical guidelin
 ## Code of Ethics
 ---
 ### The Lense of Virtue:
-**Excellence**
+**Excellence**  
 Designers should resolve to build with the best of their ability a solution with the core user problem always in mind. The consistent goal of improving solutions for the user is what should drive business.    
 
-**Fortitude**
+**Fortitude**  
 Designers should resist the pressure from society, competition and peers to stray from ethical guidelines. Stand up for these principles and keep consistent in striving for the virtue of these principles.
 
-**Integrity**
+**Integrity**  
 Designers should be transparent and honest with all parties involved or affected in the product's management of risks and handling of sensitive assets. There is also the integrity in understanding the principles as a virtue and following through with actions. 
 
-**Respect**
+**Respect**  
 Designers should treat and assist their users and coworkers as fellow humans capable of fulfilling moral virtues. Actions should not impede on the virtuous growth of others.
 
-**Responsibility**
+**Responsibility**  
 Designers should be accountable for the impact of their projects on their users and society. Actions that are virtuous should weigh in short and long term impacts.
 
 ---
 ### The Lense of Duty:
-**Excellence**
+**Excellence**  
 Designers should have the duty to continuously develop to the best of their ability in order to properly treat users as a means of an end.
 
-**Fortitude**
+**Fortitude**  
 Designers should stay consistent in their moral actions regardless of social or economical influences because moral duty stays consistent across all scenarios, and thus should be observed in all scenarios.
 
-**Integrity**
+**Integrity**  
 Designers should be truthful in descriptions and agreements within the application. Otherwise, the meaning of agreements would cease exist.  
 
-### Respect
+**Respect**  
 Designers should help users as an end goal and not use the users to achieve some other means. All design decisions should reflect this end goal.
 
-### Responsible
+**Responsible**  
 Designer should ensure that the impact of their product helps the users and does not harm them in any way, be it directly or indirectly. This ensures the users stay as the means of an end.
 
 ---
-## The Lense of Freedom:
-### Excellence
+### The Lense of Freedom:
+**Excellence**  
 Designers should have the freedom to design with the best of their ability a product that they believe will help a user problem, and see through to the completion of said product.
 
-### Fortitude
+**Fortitude**  
 Designers should have the freedom to act in these 5 virtues, regardless of social or economical influences that push them otherwise.
 
-### Integrity
+**Integrity**  
 Designers should provide the freedom for users choose whether to interact with the product, along with a transparent overview of the product functions.
 
-### Respect
+**Respect**  
 Designers should not restrict the freedom of users and coworkers. 
 
-### Responsible
+**Responsible**  
 Designers should ensure that the impact of their product does not impact the future freedom of users, directly and indirectly.  
 
 ---
-## The Lense of Welfare:
-### Excellence
+### The Lense of Welfare:
+**Excellence**  
 Designers should ensure that the product is developed to the best of their ability to help the most number of user.
 
-### Fortitude
+**Fortitude**  
 Designers should keep the needs of all the users in mind rather than individual competitors.
 
-### Integrity
+**Integrity**  
 Designers should help users get the most out of the product by providing an honest and transparent description of the product functions. 
 
-### Respect
+**Respect**  
 Designers should ensure that users are not affected in any way that would decrease their wellbeing. 
 
-### Responsible
+**Responsible**  
 Designers should ensure that the impact of the product both short term and long term is considered in respect of the wellbeing of the users
 
 ---
