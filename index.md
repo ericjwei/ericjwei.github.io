@@ -8,35 +8,36 @@ layout: page
 Code of ethics are on the surface are a simple way of outlining ethical guidelines for businesses practices and decisions. In truth, they often fall flat by creating a moral guideline that does not resonate with the moral beliefs of those who are meant to follow. Most code of ethics pick and chose different portions of moral frameworks, adhering to various principle as they see fit. As a result, there is no uniform foundation in which to support its principles. This code of ethics seeks to address this issue by defining five principles that are fundamental to morally sound design decisions. It then reasons these five principles within the lense of four major ethical frameworks: virtue, duty, freedom and welfare. Those reading this code of ethics are free to seek the ethical frameworks that resonate most closely with them, and then reason through the principles within that perspective. Adhering to all five virtues as a whole instead of individually is what will provide the most morally sound design decisions.    
 
 ### Covenant
-> I swear to fulfill, to the best of my ability and judgment, this covenant: I will observe these five principles as a whole in their many forms through the lense of virtue, duty, freedom, and welfare; I may add more if I wish, but never remove or contradict these core principles.    
+> I swear to fulfill, to the best of my ability and judgment, this covenant: I will observe these five principles as a whole in their many forms through the lense of virtue, duty, freedom, and welfare; I may add more if I wish, but never remove or contradict these core principles. These five principles are excellence, fortitude, integrity, respect, and responsibility. 
 
 ---
 ## The Lense of Virtue:
-### Commitment
-Designers should resolve to build with the best of their ability a solution with the core user problem always in mind. The consistent goal of helping the user is what should drive business.    
+### Excellence
+Designers should resolve to build with the best of their ability a solution with the core user problem always in mind. The consistent goal of improving solutions for the user is what should drive business.    
 
 ### Fortitude
 Designers should resist the pressure from society, competition and peers to stray from ethical guidelines. Stand up for these principles and keep consistent in striving for the virtue of these principles.
 
 ### Integrity
-Designers should be transparent and honest with all parties involved or affected in the product's management of risks and handling of sensitive assets. 
+Designers should be transparent and honest with all parties involved or affected in the product's management of risks and handling of sensitive assets. There is also the integrity in understanding the principles as a virtue and following through with actions. 
 
 ### Respect
 Designers should treat and assist their users and coworkers as fellow humans capable of fulfilling moral virtues. Actions should not impede on the virtuous growth of others.
 
-### Responsible
+### Responsibility
 Designers should be accountable for the impact of their projects on their users and society. Actions that are virtuous should weigh in short and long term impacts.
 
 ---
 ## The Lense of Duty:
-### Commitment
+### Excellence
+Designers have the duty to continuously 
 Commitment leads to continuous development, which in turns cultivates trust with the users. Designers should stay committed to the fundamental user problem that birthed the product. Otherwise, proper development would stop and the product would fail.
 
 ### Fortitude
-Moral actions should stay consistent regardless of social or economical influences. These virtues will hold true in all scenarios, and thus should be observed in all scenarios.
+Designers should stay consistent in their moral actions regardless of social or economical influences because moral duty stays consistent across all scenarios, and thus should be observed in all scenarios.
 
 ### Integrity
-Descriptions and agreements from the application should be truthful and not misleading to the user or else no users would believe in any product description or agreements. 
+Designers should be truthful in descriptions and agreements within the application. Otherwise, the meaning of agreements would cease exist.  
 
 ### Respect
 Designers should help users as an end goal and not use the users to achieve some other means. All design decisions should reflect this end goal.
@@ -44,8 +45,9 @@ Designers should help users as an end goal and not use the users to achieve some
 ### Responsible
 Designer should ensure that the impact of their product helps the users and does not harm them in any way, be it directly or indirectly. This ensures the users stay as the means of an end.
 
+---
 ## The Lense of Freedom:
-### Commitment
+### Excellence
 Designers should have the freedom to design with the best of their ability a product that they believe will help a user problem, and see through to the completion of said product.
 
 ### Fortitude
@@ -60,8 +62,9 @@ Designers should not restrict the freedom of users and coworkers.
 ### Responsible
 Designers should ensure that the impact of their product does not impact the future freedom of users, directly and indirectly.  
 
+---
 ## The Lense of Welfare:
-### Commitment
+### Excellence
 Designers should ensure that the product is developed to the best of their ability to help the most number of user.
 
 ### Fortitude
@@ -76,7 +79,13 @@ Designers should ensure that users are not affected in any way that would decrea
 ### Responsible
 Designers should ensure that the impact of the product both short term and long term is considered in respect of the wellbeing of the users
 
-## Check List:
-Design decisions should be checked against these 5 virtues with the consideration of all the different ethical frameworks.
+---
+## Check List Activity:
 
+First examine the different ethical frameworks and their main concepts.
+
+
+Virtue | Duty | Freedom | Welfare
+--- | --- | --- | --- 
+* Provides guidance as to the sort of characteristics and behaviors a virtuous person will seek to achieve | * Centered around categorical imperatives and universal rules with humans as a means to an end | * Always striving for the greatest freedom in choice and action | * Catering for the greater good of satisfying the many and generating the most happiness 
 
