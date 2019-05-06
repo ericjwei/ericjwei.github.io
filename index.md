@@ -4,28 +4,31 @@ subtitle: A guide to ethical design decisions
 layout: page
 ---
 
-> I swear to fulfill, to the best of my ability and judgment, this covenant: I will observe these five virtues in their many forms within the lense of virtue of person, virtue of Action, freedom and welfare, adding more if I wish, but never removing from these core values.    
+## Preface 
+Code of ethics are on the surface are a simple way of outlining ethical guidelines for businesses practices and decisions. In truth, they often fall flat by creating a moral guideline that does not resonate with the moral beliefs of those who are meant to follow. Most code of ethics pick and chose different portions of moral frameworks, adhering to various principle as they see fit. As a result, there is no uniform foundation in which to support its principles. This code of ethics seeks to address this issue by defining five principles that are fundamental to morally sound design decisions. It then reasons these five principles within the lense of four major ethical frameworks: virtue, duty, freedom and welfare. Those reading this code of ethics are free to seek the ethical frameworks that resonate most closely with them, and then reason through the principles within that perspective. Adhering to all five virtues as a whole instead of individually is what will provide the most morally sound design decisions.    
 
-Designers should always strive to fulfill these 5 virtues and help others to achieve them as well. This list does not in any way describe the ranking of desirability. It is as a group
-that together form a core set of virtues for designers. In fact, other virtues that align with the company can be added so long as they do not contradict or weaken these core virtues. They are described below under the lense of Virtue of Person, Virtue of Action, Freedom, and Welfare, along with a description and example.
+### Covenant
+> I swear to fulfill, to the best of my ability and judgment, this covenant: I will observe these five principles as a whole in their many forms through the lense of virtue, duty, freedom, and welfare; I may add more if I wish, but never remove or contradict these core principles.    
 
-## The Lense of Virtue of Person:
+---
+## The Lense of Virtue:
 ### Commitment
-Designers should resolve to build with the best of their ability a solution with the core user problem always in mind. 
+Designers should resolve to build with the best of their ability a solution with the core user problem always in mind. The consistent goal of helping the user is what should drive business.    
 
 ### Fortitude
-Designers should resist pressure from society, competition and peers to stray from ethical guidelines, and stand up for what is ethically right.
+Designers should resist the pressure from society, competition and peers to stray from ethical guidelines. Stand up for these principles and keep consistent in striving for the virtue of these principles.
 
 ### Integrity
-Designers should be transparent and honest with all parties involved or affected in the product's management of risks and handling of sensitive assets.  
+Designers should be transparent and honest with all parties involved or affected in the product's management of risks and handling of sensitive assets. 
 
 ### Respect
-Designers should treat their users and coworkers as fellow humans with the same rights and freedoms as themselves.
+Designers should treat and assist their users and coworkers as fellow humans capable of fulfilling moral virtues. Actions should not impede on the virtuous growth of others.
 
 ### Responsible
-Designers should be accountable for the impact of their projects on their users and society.
+Designers should be accountable for the impact of their projects on their users and society. Actions that are virtuous should weigh in short and long term impacts.
 
-## The Lense of Virtue of Action:
+---
+## The Lense of Duty:
 ### Commitment
 Commitment leads to continuous development, which in turns cultivates trust with the users. Designers should stay committed to the fundamental user problem that birthed the product. Otherwise, proper development would stop and the product would fail.
 
@@ -73,7 +76,7 @@ Designers should ensure that users are not affected in any way that would decrea
 ### Responsible
 Designers should ensure that the impact of the product both short term and long term is considered in respect of the wellbeing of the users
 
-## Check List
+## Check List:
 Design decisions should be checked against these 5 virtues with the consideration of all the different ethical frameworks.
 
 
