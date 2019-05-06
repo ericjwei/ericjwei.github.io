@@ -30,8 +30,7 @@ Designers should be accountable for the impact of their projects on their users 
 ---
 ## The Lense of Duty:
 ### Excellence
-Designers have the duty to continuously 
-Commitment leads to continuous development, which in turns cultivates trust with the users. Designers should stay committed to the fundamental user problem that birthed the product. Otherwise, proper development would stop and the product would fail.
+Designers should have the duty to continuously develop to the best of their ability in order to properly treat users as a means of an end.
 
 ### Fortitude
 Designers should stay consistent in their moral actions regardless of social or economical influences because moral duty stays consistent across all scenarios, and thus should be observed in all scenarios.
@@ -82,10 +81,12 @@ Designers should ensure that the impact of the product both short term and long 
 ---
 ## Check List Activity:
 
-First examine the different ethical frameworks and their main concepts.
+_First examine the different ethical frameworks and their main concepts._
 
-
-Virtue | Duty | Freedom | Welfare
+**Virtue** | **Duty** | **Freedom** | **Welfare**
 --- | --- | --- | --- 
-* Provides guidance as to the sort of characteristics and behaviors a virtuous person will seek to achieve | * Centered around categorical imperatives and universal rules with humans as a means to an end | * Always striving for the greatest freedom in choice and action | * Catering for the greater good of satisfying the many and generating the most happiness 
+- Provides guidance as to the sort of characteristics and behaviors a virtuous person will seek to achieve | - Centered around categorical imperatives and universal rules with humans as a means to an end | - Always striving for the greatest freedom in choice and action | - Catering for the greater good of satisfying the many and generating the most happiness 
 
+_With an understanding of each framework, pick the ones that resonate with you the most. This could be just one, or different parts of all._ 
+
+_Now take a look at the principles under the framework(s) of your choosing, using it as a guideline for current and future design decisions._
